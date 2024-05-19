@@ -1,0 +1,8 @@
+holidays~=0.48
+pandas~=2.2.1
+numpy~=1.26.4
+scikit-learn~=1.4.2
+joblib~=1.4.0
+xgboost~=2.0.3
+streamlit~=1.32.0
+plotly~=5.19.0
